@@ -1,0 +1,10 @@
+# for i in range(0,5):
+#     for j in range(0,5):
+#         if (j<=3-i) and (j<=3+i):
+#             print("    ",end='')
+#         else:
+#             print("*",end='')
+#     print('')
+
+while True:
+    print("*")
